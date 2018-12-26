@@ -14,7 +14,7 @@ The package contains two nodes
       * Subscriber: "/robot_pose_ekf/odom_combined"
       * Publisher: "/ekfpath"
 
-![alt text](Images/Output.png)
+![alt text](images/out.png)
       
 ### Steps to launch the nodes
 #### Step1: Install the package
