@@ -20,7 +20,7 @@ The package contains two nodes
 #### Step1: Install the package
 ```sh
 $ cd /home/workspace/catkin_ws/src
-$ git clone https://github.com/udacity/odom_to_trajectory
+$ git clone https://github.com/karimchamaa/odom_to_trajectory
 ```
 #### Step2: Build the package
 ```sh
